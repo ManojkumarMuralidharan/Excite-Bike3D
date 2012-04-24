@@ -1,0 +1,18 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\MainMenuHandler.cs">
+    <Files>
+      <File FileName="Assets\MainMenuHandler.cs" Line="14" Column="41" />
+      <File FileName="Assets\MainMenu.js" Line="58" Column="25" />
+      <File FileName="Assets\Scripts\JavaScripts\Car.js" Line="261" Column="11" />
+      <File FileName="Assets\TriggerFinishEvent.js" Line="8" Column="26" />
+      <File FileName="Assets\Scripts\JavaScripts\SwampColliderScript.js" Line="10" Column="3" />
+      <File FileName="Assets\Scripts\JavaScripts\PerformanceTweak.js" Line="25" Column="33" />
+      <File FileName="Assets\HelpMenu.js" Line="25" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

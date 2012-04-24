@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Maint Server</key>
+	<string>demo-asset-server.hq.unity3d.com</string>
+	<key>Maint UserName</key>
+	<string>ethan</string>
+	<key>Maint database name</key>
+	<string>3_0_car_tutorial_final</string>
+	<key>Maint port number</key>
+	<string>11733</string>
+	<key>Maint project name</key>
+	<string>3-0_Car_Tutorial_Final</string>
+	<key>Maint Password</key>
+	<string></string>
+	<key>Maint settings type</key>
+	<string>manual</string>
+	<key>Maint Timeout</key>
+	<string>5</string>
+	<key>Maint Connection Settings</key>
+	<string></string>
+</dict>
+</plist>
