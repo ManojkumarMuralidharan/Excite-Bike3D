@@ -6,7 +6,7 @@ var suspensionSpringRear : float = 9000;
 
 var myskin:GUISkin;
 private var mainMenuButtonObj: GameObject; 
-
+public var particleObj: ParticleSystem ; 
 private var mainMenuButton: GUITexture; 
 
 public static var textTime:String ;
@@ -277,6 +277,8 @@ function GetInput()
        {
 			
 			Debug.Log("Touch Works");
+			
+			
 			if(Input.touchCount>1)
 			dragMultiplier.z=0.1;
 			else

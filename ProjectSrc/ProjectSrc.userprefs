@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\JavaScripts\Scores.js">
+    <Files>
+      <File FileName="Assets\Scripts\JavaScripts\SoundController.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\JavaScripts\Car.js" Line="395" Column="15" />
+      <File FileName="Assets\MainMenu.js" Line="3" Column="1" />
+      <File FileName="Assets\Scripts\CSharpScripts\CarCamera.cs" Line="1" Column="1" />
+      <File FileName="Assets\TriggerFinishEvent.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\JavaScripts\Scores.js" Line="30" Column="24" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

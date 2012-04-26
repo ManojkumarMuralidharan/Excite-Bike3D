@@ -1,5 +1,6 @@
 #pragma strict
 
+
 private var backButtonObj: GameObject; 
 
 private var backButton: GUITexture; 
@@ -41,6 +42,7 @@ this.highScoresButton=this.highScoresButtonObj.GetComponent(GUITexture);
 }
 
 function Update () {
+
 
 for (var touch : Touch in Input.touches) {
 		

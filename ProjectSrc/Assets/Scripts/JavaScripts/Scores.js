@@ -27,7 +27,7 @@ GUI.skin=myskin;
 var i:int =0;
 scorecard="";
 
-      	for(i=0;i<10;i++)
+      	for(i=5;i>=0;i--)
  		{
 		if(PlayerPrefs.HasKey(i+"key"))
 		{
@@ -40,7 +40,8 @@ scorecard="";
 		}
   		}
 		
-		GUI.Button (Rect (250, 60,255, 510), scorecard);
+		GUI.Button (Rect (250, 60,255, 310), scorecard);
+		GUI.Button (Rect (250, 370,255, 100), "Current Lap : \n"+String.Format ("{0:00}:{1:00}:{2:000}", minutes, seconds, fraction));
 
 }
 
@@ -52,12 +53,12 @@ function FloatScore(minutes : int,seconds:int,fraction:int){
    newScore =(minutes*60)+seconds+(fraction/100);
   
   //highscore =newScore;
-  for(i=0;i<10;i++)
+  for(i=0;i<5;i++)
   {
   
    if(PlayerPrefs.HasKey(i+"key"))
    {
-  	if(PlayerPrefs.GetFloat(i+"key")>newScore)
+  	if(PlayerPrefs.GetFloat(i+"key")<newScore)
   	{
 		
 		oldScore=PlayerPrefs.GetFloat(i+"key");	
